@@ -76,4 +76,3 @@ VS Code, Python, Node.js, JDK, Docker, Postman, Windows Terminal, а также 
 - GitHub: [github.com/Topzi-afk](https://github.com/Topzi-afk)
 
 Если проект оказался полезным, не забудь поставить ⭐ Star этому репозиторию!
-```
